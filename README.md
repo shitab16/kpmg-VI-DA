@@ -28,12 +28,6 @@ Sprocket Central Pty Ltd ,a bikes & cycling accessories organization, has approa
 ### Data Exploration (EDA)
 - Tranformed and merged data
 - Created simple visualization to gain insights on data.
-<img src="https://github.com/shitab16/kpmg-VI-DA/blob/master/charts/download.png"  width="900" height="400">
-<img src="https://github.com/shitab16/kpmg-VI-DA/blob/master/charts/download%201.png" width="900" height="400">
-<img src="https://github.com/shitab16/kpmg-VI-DA/blob/master/charts/download%202.png" width="900" height="400">
-<img src="https://github.com/shitab16/kpmg-VI-DA/blob/master/charts/download%203.png" width="900" height="400">
-<img src="https://github.com/shitab16/kpmg-VI-DA/blob/master/charts/download%204.png"  width="900" height="400">
-
 - [Python Notebook](https://colab.research.google.com/drive/1TFOaymyi6WyVfvMy88KLPlQ8Y870juPt?usp=sharing)
 
 ## Demo
