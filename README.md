@@ -1,11 +1,3 @@
-Task: https://www.theforage.com/virtual-internships/theme/m7W4GMqeT3bh9Nb2c/KPMG-Data-Analytics-Virtual-Internship?ref=qmiDaFaXRBQoZGNrJ
-
-Report: https://docs.google.com/document/d/1iPaEApL5-UDIRjvD6tZvlo2GeR1Bh2o9pFipwI0jfLk/edit?usp=sharing
-
-Dashboard: https://public.tableau.com/views/SprocketCentralKPMG/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
-
-Notebook: https://colab.research.google.com/drive/1TFOaymyi6WyVfvMy88KLPlQ8Y870juPt?usp=sharing
-
 
 # KPMG Data Analytics Virtual Internship Project
 
@@ -30,24 +22,24 @@ Sprocket Central Pty Ltd ,a bikes & cycling accessories organization, has approa
 - Created simple visualization to gain insights on data.
 - [Python Notebook](https://colab.research.google.com/drive/1TFOaymyi6WyVfvMy88KLPlQ8Y870juPt?usp=sharing)
 
-## Demo
+### Model Building
+- RFM Score
+- Prediction Model
+- Catboost
+- [Python Notebook](https://colab.research.google.com/drive/1TFOaymyi6WyVfvMy88KLPlQ8Y870juPt?usp=sharing)
 
-Insert gif or link to demo
+### Presentation
+-
+-
+- [Presentation](https://docs.google.com/presentation/d/1dWQdJJL_dtQ1aOJ9O0oMwRAIBaOC7FognvMx2I9G6SE/edit?usp=sharing)
 
-
+## Dashboard
+-
+-
+- [Dashboard](https://public.tableau.com/views/SprocketCentralKPMG/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 ## Acknowledgements
 
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
+ - [RFM Score](https://www.datacamp.com/community/tutorials/introduction-customer-segmentation-python)
+ - [Catboost](https://catboost.ai/)
  - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-
-
-## Documentation
-
-[Documentation](https://linktodocumentation)
-
-
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
