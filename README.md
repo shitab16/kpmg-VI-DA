@@ -11,6 +11,7 @@ Sprocket Central Pty Ltd ,a bikes & cycling accessories organization, has approa
 - Model Building
 - Presentation
 - Dashboard
+## Processes
 ### Data Quality Analysis
 
 - Did a thorough inspection of quality of data is google sheets.
