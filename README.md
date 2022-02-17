@@ -14,7 +14,7 @@ Sprocket Central Pty Ltd ,a bikes & cycling accessories organization, has approa
 ## Processes
 ### Data Quality Analysis
 
-- Did a thorough inspection of quality of data is google sheets.
+- Did a thorough inspection of data quality in google sheets.
 - Cleaned data wherever it was required.
 - Altered data for better downstream processing.
 - [Report](https://docs.google.com/document/d/1ds-pXY8mok3ksSyu4P5i8TN6IDMyu9xx7Ne1twBkKbg/edit?usp=sharing)
